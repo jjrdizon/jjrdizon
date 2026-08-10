@@ -6,7 +6,7 @@ I am a software engineer based in Berlin, Germany, specializing in Spring-based 
 
 ## 👨‍💻 About Me
 
-* 🔭 I’m currently a Staff Software Engineer at European cloud service provider, collaborating to deliver high-performance cloud solutions for a global infrastructure platform
+* 🔭 I’m currently a Staff Software Engineer at a European cloud service provider, collaborating to deliver high-performance cloud solutions for a global infrastructure platform
 * 🌱 I’m actively evolving a polyglot workflow using Go microservices and React micro-frontends orchestrated via Kubernetes
 * ⚙️ I have extensive experience building scalable, fault-tolerant microservice applications and digital payment solutions
 * 🤖 I am exploring the frontier of AI-assisted engineering by incorporating Claude into my development lifecycle
