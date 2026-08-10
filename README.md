@@ -16,7 +16,7 @@ I am a software engineer based in Berlin, Germany, specializing in Spring-based 
 
 ## 🛠 Tech Stack & Tools
 
-Here is a breakdown of the technologies I work with[cite: 1]:
+Here is a breakdown of the technologies I work with:
 
 | Category | Technologies |
 | :--- | :--- |
