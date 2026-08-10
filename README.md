@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Jeph
 
-**Java Spring Boot, with a side of React and Go, a glass of Kubernetes, and a taste of Claude for dessert**[cite: 1]
+**Java Spring Boot, with a side of React and Go, a glass of Kubernetes, and a taste of Claude for dessert**
 
 I am a software engineer based in Berlin, Germany, specializing in Spring-based REST microservices, clean code practices, and robust object-oriented design
 
