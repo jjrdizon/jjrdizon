@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Jeph
+# Hi there 👋, I'm Joseph
 
 **Java Spring Boot, with a side of React and Go, a glass of Kubernetes, and a taste of Claude for dessert**
 
